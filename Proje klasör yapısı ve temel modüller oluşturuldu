@@ -1,0 +1,9 @@
+modüller
+├──main.ipynb
+├──finans_modeli.py
+├──islem_yonetimi.py
+├──dosya_islemleri.py
+├──analiz.py
+├──gorsellestirme.py
+└──utils.py
+şeklinde yazıldı
